@@ -1,6 +1,6 @@
 # urunc CI Dashboard
 
-A comprehensive dashboard for monitoring CI/CD workflows for the [urunc](https://github.com/nubificus/urunc) project.
+A comprehensive dashboard for monitoring CI/CD workflows for the [urunc](https://github.com/urunc-dev/urunc) project.
 
 ## Features
 
@@ -21,7 +21,7 @@ A comprehensive dashboard for monitoring CI/CD workflows for the [urunc](https:/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nubificus/urunc-ci-dashboard.git
+   git clone https://github.com/MUFFANUJ/urunc-monitoring-dashboard.git
    cd urunc-ci-dashboard
    ```
 
